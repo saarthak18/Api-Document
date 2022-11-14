@@ -1,3 +1,10 @@
+//dod
+http://localhost:1700/home/dod
+
+//bom
+http://localhost:1700/home/bom
+
+
 //page1
 List of categories of clothes
 List of quick search
